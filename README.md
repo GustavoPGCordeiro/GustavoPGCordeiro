@@ -5,6 +5,12 @@
 - I’m looking to collaborate on programing and solving problems!
 - I’m looking for help with my studies.
 - My contacts:
+
+
 mailto:gustavopgcordeiro@gmail.com
+
+
 https://instagram.com/gu__cordeiro
+
+
 https://linkedin.com/in/Gustavo-Cordeiro

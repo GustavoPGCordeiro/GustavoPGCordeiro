@@ -13,4 +13,4 @@ mailto:gustavopgcordeiro@gmail.com
 https://instagram.com/gu__cordeiro
 
 
-https://linkedin.com/in/Gustavo-Cordeiro
+https://linkedin.com/in/gustavo-cordeiro-02a63a344

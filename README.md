@@ -30,7 +30,7 @@
 
 <a href="https://github.com/GustavoPGCordeiro">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=GustavoPGCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
+    src="https://github-readme-stats.vercel.app/api?username=GustavoPGCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 
 <a href="https://github.com/GustavoPGCordeiro">

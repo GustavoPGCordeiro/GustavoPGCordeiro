@@ -24,15 +24,15 @@
 
 ---
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,html,css,git,github,vscode, claude, react" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/GustavoPGCordeiro">

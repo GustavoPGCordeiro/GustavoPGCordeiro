@@ -1,45 +1,95 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Gustavo Cordeiro!
-- Experience in software project development;
-- MySQL;
-- Knowledge of JavaScript, Python, CSS, HTML, React;
-- Experience using AI tools such as Claude and Claude Code to support software development;
-- Familiar with problem-solving, software design, and implementation;
-- Strong teamwork and continuous learning mindset.
+# 👋 Hello, I'm Gustavo Pinheiro Gaspar Cordeiro
 
-
-<div align="center">
-  <a href="https://instagram.com/gu__cordeiro" target="_blank" rel="noopener noreferrer">
-    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-
-  <a href="mailto:gustavopgcordeiro@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-
-  <a href="https://www.linkedin.com/in/gustavo-cordeiro-02a63a344" target="_blank" rel="noopener noreferrer">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+🎓 Computer Engineering Student at IFSMG  
+💻 Software Developer | Junior Enterprise Member  
+🚀 Focused on Backend, Frontend & AI-assisted development  
+📚 Constantly learning and building real-world projects
 
 ---
 
-## Technologies & Tools
+## 🚀 About Me
 
+- 🎓 Computer Engineering student
+- 💼 Member of a Junior Enterprise working with software development
+- 💻 Experience with web development and programming fundamentals
+- 🤖 Using AI tools (Claude, Claude Code, ChatGPT) to improve productivity
+- 📈 Focused on building a strong developer portfolio
+- 🌱 Always learning new technologies and improving coding skills
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c,html,css,git,github,vscode, claude, react" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,html,css" />
+</p>
+
+### Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-##  GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/GustavoPGCordeiro">
-    <img loading="lazy" height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=GustavoPGCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
-  <img loading="lazy" height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPGCordeiro&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
-  </a>
+<a href="https://github.com/GustavoPGCordeiro">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=GustavoPGCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
+</a>
+
+<a href="https://github.com/GustavoPGCordeiro">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPGCordeiro&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
+</a>
+
 </div>
+
+---
+
+## 🔥 Activity Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GustavoPGCordeiro&theme=dracula" />
+
+</div>
+
+---
+
+## 💡 Featured Skills
+
+- JavaScript Development
+- Python Programming
+- Data Structures & Algorithms
+- DOM Manipulation
+- API & Web Development Basics
+- Problem Solving
+- AI-assisted Coding Workflow
+
+---
+
+## 📂 Featured Projects
+
+- 🎮 JavaScript Games (Number Guessing Game)
+- 🧮 Logic & Algorithm Exercises
+- 🛒 DOM & Front-end Projects
+- 📊 Array & Object Manipulation Exercises
+
+---
+
+## 📫 Contact
+
+- 📧 Email: gustavopgcordeiro@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/gustavo-cordeiro-02a63a344  
+- 📸 Instagram: @gu__cordeiro  
+- 💻 GitHub: GustavoPGCordeiro
+
+---
+
+## ⚡ Quote
+
+> “Building small projects every day is how great developers are made.”

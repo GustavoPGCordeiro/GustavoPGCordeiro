@@ -1,6 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gustavo Cordeiro!
 - Experience in software project development;
+- MySQL;
 - Knowledge of JavaScript, Python, CSS, HTML, React;
 - Experience using AI tools such as Claude and Claude Code to support software development;
 - Familiar with problem-solving, software design, and implementation;

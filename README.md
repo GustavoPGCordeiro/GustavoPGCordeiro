@@ -1,10 +1,10 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Gustavo Cordeiro and my nickname is "GustavoPGCordeiro"!
-
-- I’m currently learning JS.
-- I’m looking to collaborate on programing and solving problems!
-- I’m looking for help with my studies.
-- My contacts:
+## My name is Gustavo Cordeiro!
+- Experience in software project development;
+- Knowledge of JavaScript, Python, CSS, HTML;
+- Experience using AI tools such as Claude and Claude Code to support software development;
+- Familiar with problem-solving, software design, and implementation;
+- Strong teamwork and continuous learning mindset.
 
 
 <div>
